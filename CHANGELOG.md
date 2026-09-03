@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.33.1](https://github.com/future-agi/future-agi/compare/v1.33.0...v1.33.1) (2026-09-03)
+
+
+### Bug Fixes
+
+* skip max cell value length check for media type uploads ([32e3ede](https://github.com/future-agi/future-agi/commit/32e3ede3afcb387eea7cec8f3fdae77168dcd3d3))
+* skip max cell value length check for media type uploads ([fda8d2e](https://github.com/future-agi/future-agi/commit/fda8d2ed6fb9a921331c0cf889721eec675acbb4))
+
 ## [1.33.0](https://github.com/future-agi/future-agi/compare/v1.32.0...v1.33.0) (2026-09-01)
 
 
